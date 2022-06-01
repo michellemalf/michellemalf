@@ -2,7 +2,7 @@
 A passionate Software Developer and Educator/Designer from San Francisco
 
 
--💻 I’m currently working on: **Coding w/ JavaScript**
+- 💻 I’m currently working on: **Coding w/ JavaScript**
 
 - 📘 I’m currently learning: **Python**
 
