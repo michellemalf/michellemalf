@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Michelle!
-A passionate Software Developer and Educator/Designer from San Francisco
+A passionate Software Developer, Educator, & Designer from San Francisco
 
 
 - 💻 I’m currently working on: **Coding w/ JavaScript**
