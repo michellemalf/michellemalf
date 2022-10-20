@@ -4,7 +4,7 @@ A passionate Software Developer, Educator, & Designer from San Francisco
 
 - 💻 I’m currently working on: **Coding w/ JavaScript**
 
-- 📘 I’m currently learning: **Python**
+- 📘 I’m currently learning: **C#**
 
 - 👩🏽‍💻 My personal website: **TBD**
 
